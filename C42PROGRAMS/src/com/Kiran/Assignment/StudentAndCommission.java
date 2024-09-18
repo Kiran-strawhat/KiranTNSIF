@@ -7,7 +7,6 @@ class Student {
         System.out.println("Student object is created");
     }
 }
-
 class Commission {
     // Data Members
     String name;
